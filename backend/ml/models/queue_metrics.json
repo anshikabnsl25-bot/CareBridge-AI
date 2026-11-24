@@ -1,0 +1,11 @@
+{
+  "model": "GradientBoostingRegressor",
+  "mae_minutes": 5.84,
+  "r2_score": 0.99,
+  "feature_importance": {
+    "queue_length": 0.6238548831539656,
+    "active_doctors": 0.25891785676657236,
+    "hour_of_day": 0.012839426876079424,
+    "dept_consult_base": 0.10438783320338262
+  }
+}
